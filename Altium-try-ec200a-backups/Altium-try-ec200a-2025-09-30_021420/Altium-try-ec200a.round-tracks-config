@@ -1,0 +1,13 @@
+Default	True	2.0	3
+ANT_50	False	2.0	3
+ETH_DIFF	False	2.0	3
+GND	False	2.0	3
+SIGNAL	False	2.0	3
+USB_DIFF	False	2.0	3
+VBAT	False	2.0	3
+VBAT_BB	False	2.0	3
+VBAT_RF	False	2.0	3
+VDD_1.8	False	2.0	3
+VDD_3V3	False	2.0	3
+VIN	False	2.0	3
+False	True	False

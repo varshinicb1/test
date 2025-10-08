@@ -1,0 +1,34 @@
+Plugin v0.0.1 running on KiCad 9.0.4 and Python 3.11.5 (main, Jun 15 2025, 06:45:45) [MSC v.1942 64 bit (AMD64)] on win32.
+Config file C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\Altium-try-ec200a.projinst.json not found. Creating new one.
+Valid Board found for C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\Altium-try-ec200a.kicad_sch
+3 sheet instances entries in C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\Altium-try-ec200a.kicad_sch
+C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\EC200A.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\EC200A.kicad_sch
+C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\power.kicad_pcb doesn't exist
+4 sheet instances entries in C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\power.kicad_sch
+C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\Decoupling.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\Decoupling.kicad_sch
+C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\3.3.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\3.3.kicad_sch
+C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\3V3.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\3V3.kicad_sch
+C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\Input.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\Input.kicad_sch
+C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\untitled.kicad_pcb doesn't exist
+2 sheet instances entries in C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\untitled.kicad_sch
+C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\RMII.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\RMII.kicad_sch
+C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\others.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\varsh\Downloads\4G cat-4 without 40-pin\Altium-try-ec200a-backups\Altium-try-ec200a-2025-09-30_021420\others.kicad_sch
+Root item: <wx._dataview.TreeListItem object at 0x000001913C16EDD0>
+No Valid Child board for 25031b74-1724-439d-9ee5-286827e04bbb
+No Valid Child board for 66c8a595-cb86-4ead-b074-b0044062c738
+No Valid Child board for 925662d6-cdd2-4bac-9f3c-104ddb765009
+No Valid Child board for c13a89ce-e205-4883-95fe-e5920d5e10a1
+No Valid Child board for ff9a11c4-6848-4a42-949d-f62db4f35564
+No Valid Child board for 3b8e3eec-f233-4bc4-8537-13b32724db37
+No Valid Child board for 326f6ce0-1cdd-409d-997b-e7270cb01cd6
+No Valid Child board for 58e28d8b-e1a1-4fb9-a423-b47b4b6f7315
+No Valid Child board for cc3085d5-b0c8-444e-824a-7eb496e9a495
+No Valid Child board for 
+Instance is a dead branch: 

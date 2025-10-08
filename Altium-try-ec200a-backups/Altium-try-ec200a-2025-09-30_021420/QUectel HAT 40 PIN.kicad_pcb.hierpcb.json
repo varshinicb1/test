@@ -1,0 +1,42 @@
+{
+  "subpcb": {
+    "QUectel HAT 40 PIN.kicad_pcb": {
+      "anchor": "U1"
+    }
+  },
+  "sheet": {
+    "": {
+      "checked": false
+    },
+    "/25031b74-1724-439d-9ee5-286827e04bbb": {
+      "checked": false
+    },
+    "/3b8e3eec-f233-4bc4-8537-13b32724db37": {
+      "checked": false
+    },
+    "/3b8e3eec-f233-4bc4-8537-13b32724db37/66c8a595-cb86-4ead-b074-b0044062c738": {
+      "checked": false
+    },
+    "/3b8e3eec-f233-4bc4-8537-13b32724db37/925662d6-cdd2-4bac-9f3c-104ddb765009": {
+      "checked": false
+    },
+    "/3b8e3eec-f233-4bc4-8537-13b32724db37/c13a89ce-e205-4883-95fe-e5920d5e10a1": {
+      "checked": false
+    },
+    "/3b8e3eec-f233-4bc4-8537-13b32724db37/ff9a11c4-6848-4a42-949d-f62db4f35564": {
+      "checked": false
+    },
+    "/cc3085d5-b0c8-444e-824a-7eb496e9a495": {
+      "checked": false
+    },
+    "/cc3085d5-b0c8-444e-824a-7eb496e9a495/326f6ce0-1cdd-409d-997b-e7270cb01cd6": {
+      "checked": false
+    },
+    "/cc3085d5-b0c8-444e-824a-7eb496e9a495/58e28d8b-e1a1-4fb9-a423-b47b4b6f7315": {
+      "checked": false
+    },
+    "/e2926356-2c3f-482f-aab5-4d70f907b52f": {
+      "checked": false
+    }
+  }
+}

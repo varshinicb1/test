@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "1c20534d-15f9-44ec-87dd-658b9233e652")
+	(paper "A3")
+	(title_block
+		(title "Raspberry Pi HAT")
+		(rev "A")
+	)
+	(lib_symbols)
+)
